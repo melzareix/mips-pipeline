@@ -2,6 +2,7 @@
 
 Verilog Code to simulate `MIPS Processor` with pipeline.
 
+Developed as the course project for Computer Architecture Course @ German University in Cairo.
 
 How to Run
 ---
